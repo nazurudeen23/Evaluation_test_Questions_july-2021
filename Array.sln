@@ -13,17 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorApp", "Calculator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formed", "Formed\Formed.csproj", "{A7FFFBA2-002E-4B70-BB46-0E6C6E30AC43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abbreviation", "Abbreviation\Abbreviation.csproj", "{F06D0FDE-3572-4FF1-8379-6F2C2D236322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abbreviation", "Abbreviation\Abbreviation.csproj", "{F06D0FDE-3572-4FF1-8379-6F2C2D236322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{99E8D8E5-A677-43B6-9FE0-8F691F19E10D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timer", "Timer\Timer.csproj", "{99E8D8E5-A677-43B6-9FE0-8F691F19E10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipIteration", "SkipIteration\SkipIteration.csproj", "{1A129510-7FA3-4C6B-8FC4-971BA68C6507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkipIteration", "SkipIteration\SkipIteration.csproj", "{1A129510-7FA3-4C6B-8FC4-971BA68C6507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMethod", "PrintMethod\PrintMethod.csproj", "{2985839B-04BF-4088-96E7-1888FFD9A728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintMethod", "PrintMethod\PrintMethod.csproj", "{2985839B-04BF-4088-96E7-1888FFD9A728}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSmall", "FindSmall\FindSmall.csproj", "{02D2FE70-E859-464B-B9FF-EE935AB98231}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSmall", "FindSmall\FindSmall.csproj", "{02D2FE70-E859-464B-B9FF-EE935AB98231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{BEE20C4A-7244-4A70-A969-7DAF741E5570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{BEE20C4A-7244-4A70-A969-7DAF741E5570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverLoading", "OperatorOverLoading\OperatorOverLoading.csproj", "{687CC1AE-7120-481C-BD42-B225B77BE3F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product", "Product\Product.csproj", "{314CEA5E-1998-49D9-BD64-8B7FCEFACAC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{BEE20C4A-7244-4A70-A969-7DAF741E5570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEE20C4A-7244-4A70-A969-7DAF741E5570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEE20C4A-7244-4A70-A969-7DAF741E5570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687CC1AE-7120-481C-BD42-B225B77BE3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687CC1AE-7120-481C-BD42-B225B77BE3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687CC1AE-7120-481C-BD42-B225B77BE3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687CC1AE-7120-481C-BD42-B225B77BE3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314CEA5E-1998-49D9-BD64-8B7FCEFACAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314CEA5E-1998-49D9-BD64-8B7FCEFACAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314CEA5E-1998-49D9-BD64-8B7FCEFACAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314CEA5E-1998-49D9-BD64-8B7FCEFACAC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
